@@ -25,4 +25,9 @@ public class HelmetBehaviour : MonoBehaviour
     {
         time = 0.0f;
     }
+
+    private void OnDisable()
+    {
+        
+    }
 }
